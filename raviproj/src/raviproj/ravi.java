@@ -3,10 +3,10 @@ package raviproj;
 public class ravi {
 
 	public static void main(String[] args) {
-		   int i=10;
-		     int j=10;
-				int sum =i+j;
-		System.out.println("sum"+sum);
+		   int k=10;
+		     int l=10;
+				int total =k+l*k;
+		System.out.println("sum"+total);
 		
 		//dev1
 
