@@ -6,9 +6,12 @@ public class ravi {
 		System.out.println("rdev2 modifying  my nice first msg");
 		
 		//dev1
-		System.out.println("rdev1 modifying  my nice first msg");
+
+		System.out.println("rdev1 rdev2 modifying  my nice first msg");
 		//dev1
 		System.out.println("rdev2   my nice first msg");
+
+		System.out.println("rdev1 modifying hhhhhhh my nice first msg");
 
 	}
 
