@@ -6,7 +6,7 @@ public class ravi {
 		   int k=10;
 		     int l=10;
 				int total =k+l*k;
-		System.out.println("sum"+total);
+		
 		
 		//dev1
 
