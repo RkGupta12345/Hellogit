@@ -11,7 +11,10 @@ public class ravi {
 		//dev1
 		System.out.println("rdev2   my nice first msg");
 
+
 		System.out.println("rdev2 munaf my nice first msg");
+
+		System.out.println("rdev1 ravi my nice first msg");
 
 	}
 
