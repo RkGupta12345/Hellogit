@@ -3,7 +3,10 @@ package raviproj;
 public class ravi {
 
 	public static void main(String[] args) {
-		System.out.println("rdev2 modifying  my nice first msg");
+		   int i=10;
+		     int j=10;
+				int sum =i+j;
+		System.out.println("sum"+sum);
 		
 		//dev1
 
